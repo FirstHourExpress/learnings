@@ -1,0 +1,11 @@
+start_date end_date program_id progress_status assigned_team parent_feature->feature
+2023-01-01 2023-12-31 program1 InProgress TeamA null->ProductivitySuite
+2023-01-01 2023-06-30 program1 Complete TeamB ProductivitySuite->Email
+2023-01-01 2023-06-30 program1 Complete TeamC ProductivitySuite->Calendar
+2023-07-01 2023-12-31 program1 InProgress TeamD ProductivitySuite->Task_Manager
+2023-01-01 2023-04-30 program1 Complete TeamB Email->EmailSearch
+2023-05-01 2023-06-30 program1 Complete TeamB Email->EmailFilters
+2023-01-01 2023-04-30 program1 Complete TeamC Calendar->Calendar_Scheduling
+2023-05-01 2023-06-30 program1 Complete TeamC Calendar->Calendar_Reminders
+2023-07-01 2023-09-30 program1 Complete TeamD Task_Manager->Task_Manager_To_Do_List
+2023-10-01 2023-12-31 program1 InProgress TeamD Task_Manager->Task_Manager_Project_Management
