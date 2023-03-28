@@ -1,4 +1,4 @@
-# [Simulating Crop Emergence Rate with Spark and Scala]()
+# [Simulating Crop Emergence Rate with Spark and Scala](https://github.com/FirstHourExpress/learnings/tree/main/spark-digital-farming)
 
 The goal of this project is to calculate the average values of soilMoisture and soilTemp in the time interval between plantingDate and emergenceDate for each cropID for different ranges of emergencRate. We have two tables to achieve this goal:
 
